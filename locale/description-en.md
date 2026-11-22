@@ -1,19 +1,7 @@
 # Massive AIs
 
-I'd like to introduce you to my **Massive AIs**.
+This mod contains all files of the Massive AIs from NathanHades.
   
-### What to Expect: 
+### Warning:
 
-All 16 lords have been modified. My plan is to build one large castle and one small castle for each of them in the end.  
-Both castles are currently ready for:  
-- Rat
-- Snake
-- Pig
-
-All the others still have only one large castle.
-
-### ATTENTION!
-
-This mod is designed for large armies. Therefore, it should only be played with Stronghold Extreme.
-
-**Have fun**
+Diese Mod sollte am besten mit der dazu passenden Massive-AI-Applied gespielt werden.
