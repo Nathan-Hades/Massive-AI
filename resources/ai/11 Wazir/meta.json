@@ -1,0 +1,19 @@
+{
+  "name": "Massive 11 Wazir",
+  "description": "This is the massive behaviour for Wazir",
+  "author": "Nathan Hades",
+  "link": "https://github.com/Nathan-Hades/Massive-AI",
+  "version": "0.1.0",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}

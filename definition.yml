@@ -1,0 +1,9 @@
+name: Massive-AI
+display-name: "Massive-AI"
+author: NathanHades
+version: 0.1.0
+dependencies:
+    aiSwapper: ^1.1.0
+type: plugin
+meta:
+  version: 1.0.0

@@ -1,0 +1,19 @@
+{
+  "name": "Massive 05 Saladin",
+  "description": "This is the massive behaviour for the Saladin",
+  "author": "Nathan Hades",
+  "link": "https://github.com/Nathan-Hades/Massive-AI",
+  "version": "0.1.0",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}
